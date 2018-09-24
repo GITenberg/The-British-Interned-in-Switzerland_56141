@@ -1,0 +1,23 @@
+_repo: The-British-Interned-in-Switzerland_56141
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Picot, Henry Philip
+    birthdate: 1857
+    deathdate: 1937
+    gutenberg_agent_id: '48689'
+    url: http://www.gutenberg.org/2009/agents/48689
+description: ''
+gutenberg_issued: '2017-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Hospitals, charities, etc.'
+- GITenberg
+title: The British Interned in Switzerland
+url: http://www.gutenberg.org/ebooks/56141
